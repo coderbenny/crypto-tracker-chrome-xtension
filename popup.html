@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Crypto Price Tracker</h2>
+        
+        <div class="pair-selection">
+            <select id="pair-dropdown"></select>
+            <button id="add-pair" class="btn primary">Add</button>
+        </div>
+
+        <div class="email-section">
+            <input type="email" id="email-input" placeholder="Enter email for alerts (optional)">
+            <button id="save-email" class="btn secondary">Save Email</button>
+        </div>
+
+        <div id="currency-list"></div>
+
+        <div id="loader" class="loader">Fetching data...</div>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Crypto & Stock Price Tracker",
+  "version": "1.0",
+  "description": "Track live cryptocurrency prices with alerts.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

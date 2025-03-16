@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 420px;
+  background: #1e272e;
+  color: white;
+  padding: 10px;
+}
+
+.container {
+  text-align: center;
+}
+
+.btn {
+  padding: 8px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.primary {
+  background: #0abde3;
+  color: white;
+}
+.secondary {
+  background: #10ac84;
+  color: white;
+}
+.danger {
+  background: #ee5253;
+  color: white;
+}
+
+.currency-item {
+  background: #2c3e50;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.pair-title {
+  font-weight: bold;
+}
+
+.history-container {
+  background: #34495e;
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 5px;
+}
