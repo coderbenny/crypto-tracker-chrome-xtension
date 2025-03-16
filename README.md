@@ -30,7 +30,7 @@ Track real-time cryptocurrency prices, set alerts, and view historical data. Thi
 ## 📥 Installation (For Users)
 
 1. **Download the Latest Release**  
-   Get the `.zip` file from the [Releases](https://github.com/your-repo-link/releases).
+   Get the `.zip` file from this [Link](https://github.com/coderbenny/crypto-tracker-chrome-xtension/archive/refs/heads/main.zip).
 
 2. **Unzip the Extension**  
    Extract the downloaded file to a convenient location.
