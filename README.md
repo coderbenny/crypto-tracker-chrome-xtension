@@ -1,22 +1,39 @@
-# Crypto & Stock Price Tracker - Chrome Extension
+# 🚀 Crypto & Stock Price Tracker - Chrome Extension
 
-A powerful and dynamic Chrome extension that allows users to track live cryptocurrency prices, set alerts for specific price points, and view historical highs/lows over various timeframes. The extension connects to Binance API to fetch real-time data and provides a seamless, visually appealing UI.
+Track real-time cryptocurrency prices, set alerts, and view historical data. This Chrome extension provides multi-currency support, email notifications, and an optimized UI for seamless tracking. 🔔📈
 
-## 🚀 Features
+---
 
-- 📈 **Real-Time Price Tracking**: Monitor live cryptocurrency prices.
-- 🔔 **Price Alerts**: Set notifications when a currency reaches a specified price.
-- 📊 **Historical Data**: View the highest and lowest prices for selected timeframes (1 min, 3 mins, 5 mins, etc.).
-- ✅ **Multi-Currency Support**: Choose and track multiple currency pairs.
-- 🗑 **Remove Tracked Currencies**: Delete any tracked currency pairs anytime.
-- 📧 **Email Alerts**: Option to receive email notifications when a price alert is triggered.
-- 🎨 **Modern UI/UX**: Well-designed, responsive, and visually appealing layout.
-- ⚡ **Efficient Performance**: Optimized API calls and local storage for seamless usage.
+## 📌 Features
 
-## 📌 Installation
+✅ **Real-time Price Tracking** - Fetches live cryptocurrency prices from Binance API.  
+✅ **Multi-Currency Support** - Track multiple trading pairs.  
+✅ **Alerts & Notifications** - Set price alerts via popups and email notifications.  
+✅ **Historical Data View** - View highest & lowest prices over different timelines.  
+✅ **User-Friendly Interface** - Well-designed, responsive UI for seamless usage.  
+✅ **Persistent Data Storage** - Saves tracked pairs and preferences using Chrome Storage.  
+✅ **Efficient Performance** - Optimized fetching logic for minimal resource consumption.
 
-1. **Download the Extension**
-   - Clone this repository or download the ZIP file and extract it.
-   
-   ```sh
-   git clone https://github.com/your-username/crypto-tracker-extension.git
+---
+
+## 📥 Installation (For Users)
+
+1. **Download the Latest Release** - Get the `.zip` from the [Releases](https://github.com/your-repo-link/releases).
+2. **Unzip the Extension** - Extract the downloaded file to a convenient location.
+3. **Load the Extension in Chrome**
+   - Open `chrome://extensions/` in your Chrome browser.
+   - Enable `Developer Mode` (toggle at the top-right).
+   - Click `Load Unpacked` and select the extracted folder.
+4. **Start Tracking!** - Click the extension icon and start monitoring crypto prices.
+
+---
+
+## 🛠️ Developer Guide
+
+### 🏗️ Setting Up the Extension for Development
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-repo-link.git
+   cd crypto-price-tracker-extension
+   ```
