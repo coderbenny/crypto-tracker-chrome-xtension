@@ -4,6 +4,20 @@ Track real-time cryptocurrency prices, set alerts, and view historical data. Thi
 
 ---
 
+## Screenshots
+
+### Main Popup View
+
+![Popup View](images/img1.png)
+
+### Settings and Alerts
+
+![Settings and Alerts](images/img2.png)
+
+### History Data
+
+![Settings and Alerts](images/img2.png)
+
 ## 📌 Features
 
 ✅ **Real-time Price Tracking** - Fetches live cryptocurrency prices from Binance API.  
